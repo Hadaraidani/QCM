@@ -2,7 +2,7 @@
   "config": {
     "title": "QCM Électricité",
     "description": "Questions à choix multiples pour les examens d'électricité",
-    "timerMinutes": 90,
+    "timerMinutes": 60,
     "university": "Université Joseph KI-ZERBO (UJKZ)",
     "department": "MPCI - Promotion 2025",
     "location": "Ouagadougou, Burkina Faso"
