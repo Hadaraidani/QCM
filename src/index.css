@@ -1,0 +1,197 @@
+@import "tailwindcss";
+
+/* ==============================
+   STYLES GLOBAUX
+   QCM Électricité - Licence 1
+   ============================== */
+
+/* Police par défaut */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* Scrollbar personnalisée - Globale */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e2e8f0;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #818cf8 0%, #6366f1 100%);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #6366f1 0%, #4f46e5 100%);
+}
+
+/* Scrollbar fine pour les conteneurs internes */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 3px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #a5b4fc;
+  border-radius: 3px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: #818cf8;
+}
+
+/* Firefox scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #818cf8 #e2e8f0;
+}
+
+/* Animation pour les boutons */
+button {
+  transition: all 0.2s ease;
+}
+
+/* Animation de pulsation pour le timer */
+@keyframes pulse-warning {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.animate-pulse-warning {
+  animation: pulse-warning 1s ease-in-out infinite;
+}
+
+/* Sélection de texte */
+::selection {
+  background-color: #818cf8;
+  color: white;
+}
+
+/* Focus visible pour l'accessibilité */
+*:focus-visible {
+  outline: 2px solid #6366f1;
+  outline-offset: 2px;
+}
+
+/* Styles pour les inputs */
+input::placeholder {
+  color: #9ca3af;
+}
+
+/* Animation d'entrée */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-out;
+}
+
+/* ==============================
+   STYLES POUR LES IMAGES
+   ============================== */
+
+/* Images responsives dans les questions */
+.question-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* Conteneur d'image avec zoom au survol */
+.image-container {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+.image-container:hover {
+  transform: scale(1.02);
+}
+
+/* Image en mode zoom/plein écran */
+.image-fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  cursor: zoom-out;
+}
+
+.image-fullscreen img {
+  max-width: 90vw;
+  max-height: 90vh;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+/* Placeholder pour images en chargement */
+.image-placeholder {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* Impression */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  
+  body {
+    background: white !important;
+  }
+  
+  .question-image {
+    max-width: 300px;
+    page-break-inside: avoid;
+  }
+}

@@ -1,0 +1,1531 @@
+{
+  "config": {
+    "title": "QCM Électricité",
+    "description": "Questions à choix multiples pour les examens d'électricité",
+    "timerMinutes": 90,
+    "university": "Université Joseph KI-ZERBO (UJKZ)",
+    "department": "MPCI - Promotion 2025",
+    "location": "Ouagadougou, Burkina Faso"
+  },
+  "creator": {
+    "nom": "IDANI",
+    "prenom": "Hadara",
+    "pseudo": "PIRATK",
+    "whatsapp": ["+226 56 49 23 16", "+226 73 57 86 43"],
+    "facebook": {
+      "name": "Idani Aïdara",
+      "url": "https://www.facebook.com/aidara.idani.2025"
+    }
+  },
+  "semesters": {
+    "S1": {
+      "name": "Semestre 1",
+      "description": "Électrostatique et Magnétostatique",
+      "subjects": ["Électrostatique", "Champ Magnétique", "Loi de Coulomb", "Théorème de Gauss"],
+      "exams": {
+        "2024": {
+          "title": "Examen S1 - Session 2024",
+          "date": "Janvier 2024",
+          "questions": [
+            {
+              "id": 1,
+              "theme": "Électrostatique",
+              "question": "Les propositions ci-dessous sont relatives à l'interaction électrostatique (Choisir les bonnes réponses):",
+              "réponses": [
+                "A. Elle peut être répulsive",
+                "B. Elle peut être attractive",
+                "C. Elle est responsable de l'attraction entre aimants",
+                "D. Elle est responsable de l'attraction entre planètes"
+              ],
+              "bonnes_réponses": ["A", "B"]
+            },
+            {
+              "id": 2,
+              "theme": "Électrostatique",
+              "question": "La répulsion ou l'attraction des charges électriques est due à une force (Choisir les bonnes réponses) ",
+              "réponses": [
+                "A. De contact",
+                "B. A distance",
+                "C. Electrostatique",
+                "D. Magnétique"
+              ],
+              "bonnes_réponses": ["B", "C"]
+            },
+            {
+              "id": 3,
+              "theme": "Interaction électrostatique",
+              "question": "\"L'environnement\" que crée une charge électrique fixe autour d'elle est appelé (Choisir la bonne réponse) :",
+              "réponses": [
+                "A. Champ gravitationnel",
+                "B. Champ électrostatique",
+                "C. Champ magnétique",
+                "D .Aucune bonne réponse"
+              ],
+              "bonnes_réponses": ["B"]
+            },
+            {
+              "id": 4,
+              "theme": "Champ électrostatique",
+              "question": "Le champ électrostatique est généralement engendré par (Choisir les bonnes réponses) :",
+              "réponses": [
+                "A. Des charges électriques en mouvement",
+                "B. Des charges électriques immobiles",
+                "C. Des cherges électriques en déplacement ",
+                "D. Aucune bonne réponse"
+              ],
+              "bonnes_réponses": ["B"]
+             
+
+            },
+            {
+              "id": 5,
+              "theme": "Champ électrostatique",
+              "question": "L'intensité du champ électrostatique se mesure en (Choisir les bonnes réponses) :",
+              "réponses": [
+                "A. Tesla (T)",
+                "B. Ampère/mètre (A/m)",
+                "C. Voltmètre (V/m)",
+                "D. Newton/Coulomb (N/C)"
+              ],
+              "bonnes_réponses": ["C", "D"]
+
+            },
+            {
+              "id": 6,
+              "theme": "Champ électrostatique",
+              "question": "D'après la loi de Coulomb, l'intensité du champ électrostatique créé par une charge électrique ponctuelle en un point M de l'espace est (Choisir la bonne réponse) :",
+              "réponses": [
+                "A. Proportionnelle à la distance entre la charge et le point M",
+                "B. Inversement proportionnelle au carré de la distance entre la charge et le point M",
+                "C. Proportionnelle au carré de la distance entre la charge et le point M",
+                "D. Je ne sais pas"
+              ],
+              "bonnes_réponses": ["B"]
+            },
+            {
+              "id": 7,
+              "theme": "Champ électrostatique",
+              "question": "Quand on double la valeur de la charge électrique d'un corps en interaction avec un autre corps chargé électriquement, l'intensité de la force d'interaction électrostatique (Choisir la bonne réponse) :",
+              "réponses": [
+                "A. Double",
+                "B. Reste inchangée",
+                "C. Est divisée par 2",
+                "D. Est divisée par 4"
+              ],
+              "bonnes_réponses": ["A"]
+
+            },
+            {
+              "id": 8,
+              "theme": "Champ électrostatique",
+              "question": "Quand on double la distance entre 2 corps chargés électriquement, l'intensité de la force d'interaction électrostatique (Choisir la bonne réponse) :",
+              "réponses": [
+                "A. Double",
+                "B. Reste inchangée",
+                "C. Est divisée par 2",
+                "D. Est divisée par 4"
+              ],
+              "bonnes_réponses": ["D"]
+            },
+            {
+              "id": 9,
+              "theme": "Champ électrostatique",
+              "question": "Pour la figure ci-dessous, quel est le champ électrostatique au point C, milieu de AB ? (Choisir la bonne réponse) :",
+              "réponses": [
+                "A. Le champ est nul",
+                "B. Le champ vaut 18 000 V/m",
+                "C. Aucune des deux réponses précédentes n'est complète"
+              ],
+              "bonnes_réponses": ["A"],
+              "image": "/images/Scm1.png"
+
+            },
+            {
+              "id": 10,
+              "theme": "Champ électrostatique",
+              "question": "La figure concerne les questions 10 et 11. Que vaut la tension $U_1$ ?(Choisir la bonne réponse) :",
+              "réponses": [
+                "A. $U_1$  = 18 V",
+                "B. $U_1$ = 6 V",
+                "C. $U_1$ = -6 V",
+                "D. $U_1$ = -18V"
+              ],
+              "bonnes_réponses": ["B"],
+              "image": "/images/Scm4.png"
+
+            },
+            {
+              "id": 11,
+              "theme": "Circuit électrique",
+              "question": "Que vaut la tension $U_2$ et $U_3$ ?(Choisir la bonne réponse):",
+              "réponses": [
+                "A. $U_2$ = 7,2 V",
+                "B. $U_2$ = -16,18 V",
+                "C. $U_3$ = 10,8 V",
+                "D. $U_3$ = 1,2 V"
+              ],
+              "bonnes_réponses": ["A", "D"]
+
+            },
+            {
+              "id": 12,
+              "theme": "Champ électrostatique",
+              "question": "On considère un champ électrique dont la norme varie suivant l'axe Ox selon la relation $E(x) = 5x^2$. La différence de potentiel entre les points $x_1 = 1m$ et $x_2 = 3m$ (Choisir la bonne réponse) :",
+              "réponses": [
+                "A. +40V",
+                "B. -40V",
+                "C. +43.35V",
+                "D. -43.35V"
+              ],
+              "bonnes_réponses": ["A"]
+
+            },
+            {
+              "id": 13,
+              "theme": "Champ électrostatique",
+              "question": "On considère un fil infiniment long portant une densité linéique de charges $\\lambda > 0$. On souhaite calculer le champ électrostatique en un point M de l'espace par le théorème de Gauss. (Choisir la bonne réponse) :",
+              "réponses": [
+                "A. Le plan contenant l'axe du fil et le point M est un plan de symétrie de la distribution",
+                "B. Le plan perpendiculaire à l'axe du fil et contenant le point M est un plan de symétrie de la distribution",
+                "C. Le plan contenant l'axe du fil et le point M est un plan d'antisymétrie de la distribution",
+                "D. Le plan perpendiculaire à l'axe du fil et contenant le point M est un plan d'antisymétrie de la distribution"
+              ],
+              "bonnes_réponses": ["A", "B"],
+              "image": "/images/Scm2.png"
+            },
+            {
+              "id": 14,
+              "theme": "Champ électrostatique",
+              "question": "Refèrez vous à la figure précédente. On choisi un cylindre fermé de rayon, de hauteur h(égale à la longueur du fil) et dont l'axe coïncide avec le fil, pour appliquer le théorème de Gauss. Le flux du champ électrostatique à travers l surface de Gauss a pour expression(Choisir la bonne réponse):",
+              "réponses": [
+                 "A. $\\Phi = nr^2hE$",
+                "B. $\\Phi = 2nrhE$",
+                "C. $\\Phi = 2nrhE$",
+                "D. $\\Phi = \\pi r^2E$"
+              ],
+              "bonnes_réponses": ["B"]
+
+            },
+            {
+              "id": 15,
+              "theme": "Champ électrostatique",
+              "question": "La capacité d'un condensateur plan a pour expression (Choisir la bonne réponse) :",
+              "réponses": [
+                "A. $C = \\frac{\\epsilon_0 S}{d}$ si l’espace entre les plaques est vide",
+                "B. $C = \\frac{\\epsilon_0 S}{d}$ quel que soit le milieu entre les plaques",
+                "C. $C = \\epsilon_0 S$",
+                "D. $C = \\frac{\\epsilon_0}{d}$"
+              ],
+              "bonnes_réponses": ["A"]
+
+            },
+            {
+              "id": 16,
+              "theme": "Condensateur",
+              "question": "La capacité d'un condensateur (Choisir les bonnes réponses) :",
+              "réponses": [
+                "A. S'exprime en F·m⁻¹",
+                "B. Est une grandeur dépendant uniquement de la géométrie des conducteurs en influence totale",
+                "C. Est toujours positive",
+                "D. Est d'autant plus grande que le condensateur permet une accumulation de charge importante pour une différence de potentiel appliquée fixée"
+              ],
+              "bonnes_réponses": ["C", "D"]
+
+            },
+            {
+              "id": 17,
+              "theme": "Condensateur",
+              "question": "On applique une tension électrique U entre deux plaques horizontales parallèles séparées d’une distance d. L'expression du champ électrostatique $E$ entre les plaques est donnée par la relation (Choisir la bonne réponse) :",
+              "réponses": [
+                "A. $E = \\frac{U}{d}$",
+                "B. $E = U.d$",
+                "C. $E = \\frac{U}{d^2}$",
+                "D. $E = \\frac{U}{2d}$"
+              ],
+              "bonnes_réponses": ["A"]
+
+            },
+            {
+              "id": 18,
+              "theme": "Condensateur",
+              "question": "La loi des nœuds peut être appliquée en régime permanent et en régime variable (Choisir la bonne réponse) :",
+              "réponses": [
+                "A. Oui",
+                "B. non",
+                "C. Oui mais pas à chaque fois",
+                "D.Aucune bonne réponse"
+              ],
+              "bonnes_réponses": ["A"]
+            },
+            {
+              "id": 19,
+              "theme": "Circuit électrique",
+              "question": "Les courants $I_1$ et $I_2$ ainsi que la tension U relatifs au circuit de la figure suivante ont été calculé ($I_1$= 0,1 A); des valeurs sont proposées ci-dessus (Choisir les bonnes réponses) :",
+              "réponses": [
+                "A. $I_2$ = 0,2 A",
+                "B. $I_2 =\\frac{\\ I_1}{2}$ ",
+                "C. U = 2 V",
+                "D. U = 4 V"
+              ],
+              "bonnes_réponses": ["B", "C"],
+              "image": "/images/Scm3.png"
+
+            },
+            {
+              "id": 20,
+              "theme": "Condensateur",
+              "question": "La capacité d'un condensateur (Choisir les bonnes réponses) :",
+              "réponses": [
+                "A. S'exprime en F·m⁻¹",
+                "B. Est une grandeur dépendant uniquement de la géométrie des conducteurs et de l’influence totale",
+                "C. Est toujours positive",
+                "D. Est d'autant plus grande que le condensateur permet une accumulation de charge importante pour une différence de potentiel appliquée fixée"
+              ],
+              "bonnes_réponses": ["D"]
+
+            }
+            
+          ]
+        },
+        "2025": {
+          "title": "Examen S1 - Session 2025",
+          "date": "Janvier 2025",
+          "questions": [
+            {
+              "id": 1,
+              "theme": "Électrostatique",
+              "question": "Le principe de superposition pour les champs électriques stipule que :",
+              "réponses": [
+                "A. Le champ résultant est la somme vectorielle des champs individuels",
+                "B. Les champs s'annulent toujours",
+                "C. Chaque charge crée un champ indépendant des autres",
+                "D. Le champ résultant est le produit des champs"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 2,
+              "theme": "Électrostatique",
+              "question": "La constante de Coulomb $k$ dans le vide est égale à :",
+              "réponses": [
+                "A. $k = \\frac{1}{4\\pi\\varepsilon_0} \\approx 9 \\times 10^9 \\, N \\cdot m^2/C^2$",
+                "B. $k = 4\\pi\\varepsilon_0$",
+                "C. $k = \\mu_0 c^2$",
+                "D. $k = 8.85 \\times 10^{-12} \\, F/m$"
+              ],
+              "bonnes_réponses": ["A"]
+            },
+            {
+              "id": 3,
+              "theme": "Électrostatique",
+              "question": "Une sphère conductrice chargée uniformément présente :",
+              "réponses": [
+                "A. Un champ nul à l'intérieur",
+                "B. Un champ externe équivalent à une charge ponctuelle au centre",
+                "C. Une densité de charge uniforme en volume",
+                "D. Des charges en surface uniquement"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 4,
+              "theme": "Électrostatique",
+              "question": "L'équation de Laplace pour le potentiel électrique s'écrit :",
+              "réponses": [
+                "A. $\\nabla^2 V = 0$ (dans les régions sans charge)",
+                "B. $\\nabla^2 V = -\\frac{\\rho}{\\varepsilon_0}$",
+                "C. $\\Delta V = 0$ en notation alternative",
+                "D. Est vérifiée partout dans l'espace"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 5,
+              "theme": "Électrostatique",
+              "question": "L'énergie d'interaction entre deux charges $q_1$ et $q_2$ séparées de $r$ est :",
+              "réponses": [
+                "A. $U = k\\frac{q_1 q_2}{r}$",
+                "B. $U = k\\frac{q_1 q_2}{r^2}$",
+                "C. Positive si les charges sont de même signe",
+                "D. Égale au travail pour amener les charges depuis l'infini"
+              ],
+              "bonnes_réponses": ["A", "C", "D"]
+            },
+            {
+              "id": 6,
+              "theme": "Électrostatique",
+              "question": "Un diélectrique placé entre les armatures d'un condensateur :",
+              "réponses": [
+                "A. Augmente la capacité d'un facteur $\\varepsilon_r$",
+                "B. Diminue le champ électrique à charge constante",
+                "C. Augmente la tension de claquage",
+                "D. N'a aucun effet sur la capacité"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 7,
+              "theme": "Champ Magnétique",
+              "question": "Les lignes de champ magnétique :",
+              "réponses": [
+                "A. Sont toujours fermées",
+                "B. Partent du pôle Nord et arrivent au pôle Sud",
+                "C. Ne peuvent pas se croiser",
+                "D. Commencent sur les charges magnétiques"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 8,
+              "theme": "Champ Magnétique",
+              "question": "Le moment magnétique $\\vec{m}$ d'une spire de courant est :",
+              "réponses": [
+                "A. $\\vec{m} = I \\cdot S \\cdot \\vec{n}$ où $S$ est l'aire de la spire",
+                "B. Perpendiculaire au plan de la spire",
+                "C. Exprimé en $A \\cdot m^2$",
+                "D. Proportionnel au carré du rayon"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 9,
+              "theme": "Champ Magnétique",
+              "question": "Une particule chargée en mouvement circulaire dans un champ magnétique uniforme :",
+              "réponses": [
+                "A. A un rayon de giration $r = \\frac{mv}{qB}$",
+                "B. A une période indépendante de la vitesse",
+                "C. Subit un travail de la force magnétique",
+                "D. A une fréquence cyclotron $f = \\frac{qB}{2\\pi m}$"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 10,
+              "theme": "Champ Magnétique",
+              "question": "L'effet Hall permet de mesurer :",
+              "réponses": [
+                "A. Le signe des porteurs de charge",
+                "B. La densité des porteurs",
+                "C. Le champ magnétique",
+                "D. La résistance électrique uniquement"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 11,
+              "theme": "Électrostatique",
+              "question": "La polarisation $\\vec{P}$ d'un diélectrique est :",
+              "réponses": [
+                "A. Le moment dipolaire par unité de volume",
+                "B. Reliée au champ par $\\vec{P} = \\varepsilon_0 \\chi_e \\vec{E}$",
+                "C. Exprimée en $C/m^2$",
+                "D. Toujours parallèle au champ électrique (diélectrique isotrope)"
+              ],
+              "bonnes_réponses": ["A", "B", "C", "D"]
+            },
+            {
+              "id": 12,
+              "theme": "Champ Magnétique",
+              "question": "La loi de Biot-Savart donne le champ magnétique créé par un élément de courant :",
+              "réponses": [
+                "A. $d\\vec{B} = \\frac{\\mu_0}{4\\pi} \\frac{I d\\vec{l} \\times \\vec{r}}{r^3}$",
+                "B. Le champ est perpendiculaire au plan ($d\\vec{l}$, $\\vec{r}$)",
+                "C. Est valable pour les courants stationnaires",
+                "D. $d\\vec{B} = \\frac{\\mu_0 I}{4\\pi r^2}$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 13,
+              "theme": "Électrostatique",
+              "question": "La capacité d'un condensateur sphérique (rayons $a$ et $b$, $b > a$) est :",
+              "réponses": [
+                "A. $C = 4\\pi\\varepsilon_0 \\frac{ab}{b-a}$",
+                "B. $C = 4\\pi\\varepsilon_0 a$ quand $b \\to \\infty$",
+                "C. Proportionnelle à la différence $b - a$",
+                "D. Indépendante des rayons"
+              ],
+              "bonnes_réponses": ["A", "B"]
+            },
+            {
+              "id": 14,
+              "theme": "Champ Magnétique",
+              "question": "Le couple exercé sur une spire de moment magnétique $\\vec{m}$ dans un champ $\\vec{B}$ est :",
+              "réponses": [
+                "A. $\\vec{\\Gamma} = \\vec{m} \\times \\vec{B}$",
+                "B. $\\Gamma = mB\\sin(\\theta)$",
+                "C. Nul quand $\\vec{m} \\parallel \\vec{B}$",
+                "D. Maximal quand $\\vec{m} \\perp \\vec{B}$"
+              ],
+              "bonnes_réponses": ["A", "B", "C", "D"]
+            },
+            {
+              "id": 15,
+              "theme": "Électrostatique",
+              "question": "La force entre les armatures d'un condensateur plan chargé est :",
+              "réponses": [
+                "A. $F = \\frac{\\sigma^2 S}{2\\varepsilon_0}$ (attractive)",
+                "B. $F = \\frac{Q^2}{2\\varepsilon_0 S}$",
+                "C. Répulsive",
+                "D. Indépendante de la distance entre les plaques"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 16,
+              "theme": "Champ Magnétique",
+              "question": "L'énergie magnétique stockée dans une inductance $L$ parcourue par un courant $I$ est :",
+              "réponses": [
+                "A. $W = \\frac{1}{2}LI^2$",
+                "B. $W = LI^2$",
+                "C. $W = \\frac{1}{2}\\frac{\\Phi^2}{L}$",
+                "D. Exprimée en Joules"
+              ],
+              "bonnes_réponses": ["A", "C", "D"]
+            },
+            {
+              "id": 17,
+              "theme": "Électrostatique",
+              "question": "L'équation de Poisson pour le potentiel s'écrit :",
+              "réponses": [
+                "A. $\\nabla^2 V = -\\frac{\\rho}{\\varepsilon_0}$",
+                "B. Se réduit à Laplace quand $\\rho = 0$",
+                "C. $\\nabla^2 V = \\frac{\\rho}{\\varepsilon_0}$",
+                "D. Est une équation différentielle du second ordre"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 18,
+              "theme": "Champ Magnétique",
+              "question": "La perméabilité magnétique relative $\\mu_r$ d'un matériau ferromagnétique :",
+              "réponses": [
+                "A. Peut être très grande (plusieurs milliers)",
+                "B. Est toujours égale à 1",
+                "C. Dépend du champ appliqué (hystérésis)",
+                "D. Est négative"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 19,
+              "theme": "Électrostatique",
+              "question": "Deux condensateurs de capacités $C_1$ et $C_2$ en parallèle ont une capacité équivalente :",
+              "réponses": [
+                "A. $C_{eq} = C_1 + C_2$",
+                "B. $\\frac{1}{C_{eq}} = \\frac{1}{C_1} + \\frac{1}{C_2}$",
+                "C. Toujours supérieure à la plus grande des deux",
+                "D. $C_{eq} = \\frac{C_1 C_2}{C_1 + C_2}$"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 20,
+              "theme": "Champ Magnétique",
+              "question": "La densité d'énergie magnétique dans un champ $B$ est :",
+              "réponses": [
+                "A. $u_B = \\frac{B^2}{2\\mu_0}$",
+                "B. $u_B = \\frac{1}{2}\\mu_0 B^2$",
+                "C. Exprimée en $J/m^3$",
+                "D. Proportionnelle au carré du champ"
+              ],
+              "bonnes_réponses": ["A", "C", "D"]
+            }
+          ]
+        },
+        "2026": {
+          "title": "Examen S1 - Session 2026",
+          "date": "Janvier 2026",
+          "questions": [
+            {
+              "id": 1,
+              "theme": "Électrostatique",
+              "question": "La permittivité du vide $\\varepsilon_0$ vaut environ :",
+              "réponses": [
+                "A. $8.85 \\times 10^{-12} \\, F/m$",
+                "B. $4\\pi \\times 10^{-7} \\, H/m$",
+                "C. $\\frac{1}{36\\pi} \\times 10^{-9} \\, F/m$",
+                "D. $9 \\times 10^9 \\, N \\cdot m^2/C^2$"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 2,
+              "theme": "Électrostatique",
+              "question": "Le travail de la force électrostatique pour déplacer une charge $q$ de $A$ à $B$ est :",
+              "réponses": [
+                "A. $W_{A \\to B} = q(V_A - V_B)$",
+                "B. Indépendant du chemin suivi",
+                "C. $W_{A \\to B} = q(V_B - V_A)$",
+                "D. Toujours positif"
+              ],
+              "bonnes_réponses": ["A", "B"]
+            },
+            {
+              "id": 3,
+              "theme": "Électrostatique",
+              "question": "Pour une distribution linéique de charge $\\lambda$ sur un fil infini, le champ électrique à distance $r$ est :",
+              "réponses": [
+                "A. $E = \\frac{\\lambda}{2\\pi\\varepsilon_0 r}$",
+                "B. Radial et dirigé vers l'extérieur si $\\lambda > 0$",
+                "C. $E = \\frac{\\lambda}{4\\pi\\varepsilon_0 r^2}$",
+                "D. Uniforme dans tout l'espace"
+              ],
+              "bonnes_réponses": ["A", "B"]
+            },
+            {
+              "id": 4,
+              "theme": "Champ Magnétique",
+              "question": "La perméabilité du vide $\\mu_0$ vaut :",
+              "réponses": [
+                "A. $4\\pi \\times 10^{-7} \\, H/m$",
+                "B. $8.85 \\times 10^{-12} \\, F/m$",
+                "C. $\\mu_0 \\varepsilon_0 = \\frac{1}{c^2}$",
+                "D. $1.26 \\times 10^{-6} \\, T \\cdot m/A$"
+              ],
+              "bonnes_réponses": ["A", "C", "D"]
+            },
+            {
+              "id": 5,
+              "theme": "Champ Magnétique",
+              "question": "L'unité du champ magnétique $B$ dans le SI est :",
+              "réponses": [
+                "A. Le Tesla (T)",
+                "B. Le Gauss (G)",
+                "C. $1 \\, T = 1 \\, Wb/m^2$",
+                "D. $1 \\, T = 1 \\, kg/(A \\cdot s^2)$"
+              ],
+              "bonnes_réponses": ["A", "C", "D"]
+            },
+            {
+              "id": 6,
+              "theme": "Électrostatique",
+              "question": "Un conducteur sphérique isolé de rayon $R$ portant une charge $Q$ a un potentiel :",
+              "réponses": [
+                "A. $V = \\frac{Q}{4\\pi\\varepsilon_0 R}$ à sa surface",
+                "B. Uniforme à l'intérieur",
+                "C. Nul à l'infini (référence)",
+                "D. Proportionnel à $R^2$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 7,
+              "theme": "Champ Magnétique",
+              "question": "La circulation du champ magnétique le long d'un contour fermé est :",
+              "réponses": [
+                "A. Égale à $\\mu_0$ fois le courant enlacé (théorème d'Ampère)",
+                "B. Toujours nulle",
+                "C. Indépendante de la forme du contour (pour un même courant enlacé)",
+                "D. Égale au flux magnétique"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 8,
+              "theme": "Électrostatique",
+              "question": "La condition aux limites pour le champ électrique normal à l'interface entre deux diélectriques est :",
+              "réponses": [
+                "A. $\\varepsilon_1 E_{1n} = \\varepsilon_2 E_{2n}$ (sans charge libre)",
+                "B. $E_{1n} = E_{2n}$",
+                "C. La composante normale de $\\vec{D}$ est continue",
+                "D. Le champ est toujours continu"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 9,
+              "theme": "Champ Magnétique",
+              "question": "Le vecteur excitation magnétique $\\vec{H}$ est relié à $\\vec{B}$ par :",
+              "réponses": [
+                "A. $\\vec{B} = \\mu_0(\\vec{H} + \\vec{M})$",
+                "B. $\\vec{B} = \\mu_0 \\mu_r \\vec{H}$ dans un milieu linéaire",
+                "C. $\\vec{H}$ a pour unité $A/m$",
+                "D. $\\vec{H} = \\mu_0 \\vec{B}$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 10,
+              "theme": "Électrostatique",
+              "question": "La capacité d'un condensateur cylindrique (rayons $a$ et $b$, longueur $L$) est :",
+              "réponses": [
+                "A. $C = \\frac{2\\pi\\varepsilon_0 L}{\\ln(b/a)}$",
+                "B. Proportionnelle à la longueur $L$",
+                "C. $C = \\varepsilon_0 \\frac{S}{d}$",
+                "D. Inversement proportionnelle à $\\ln(b/a)$"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 11,
+              "theme": "Champ Magnétique",
+              "question": "Le champ magnétique à l'intérieur d'un tore de $N$ spires et de rayon moyen $R$ est :",
+              "réponses": [
+                "A. $B = \\frac{\\mu_0 N I}{2\\pi R}$",
+                "B. Uniforme dans la section du tore",
+                "C. Nul à l'extérieur du tore",
+                "D. Proportionnel au carré de $N$"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 12,
+              "theme": "Électrostatique",
+              "question": "Le champ électrique d'un plan infini uniformément chargé (densité $\\sigma$) est :",
+              "réponses": [
+                "A. $E = \\frac{\\sigma}{2\\varepsilon_0}$",
+                "B. Uniforme et perpendiculaire au plan",
+                "C. $E = \\frac{\\sigma}{\\varepsilon_0}$",
+                "D. Dépendant de la distance au plan"
+              ],
+              "bonnes_réponses": ["A", "B"]
+            },
+            {
+              "id": 13,
+              "theme": "Champ Magnétique",
+              "question": "Dans un matériau diamagnétique :",
+              "réponses": [
+                "A. $\\mu_r < 1$ (légèrement)",
+                "B. L'aimantation s'oppose au champ appliqué",
+                "C. $\\chi_m < 0$",
+                "D. $\\mu_r >> 1$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 14,
+              "theme": "Électrostatique",
+              "question": "Le coefficient de couplage capacitif $C_{12}$ entre deux conducteurs :",
+              "réponses": [
+                "A. Représente l'influence partielle d'un conducteur sur l'autre",
+                "B. Est symétrique : $C_{12} = C_{21}$",
+                "C. Est toujours positif",
+                "D. Est nul si les conducteurs sont isolés l'un de l'autre"
+              ],
+              "bonnes_réponses": ["A", "B"]
+            },
+            {
+              "id": 15,
+              "theme": "Champ Magnétique",
+              "question": "L'inductance mutuelle $M$ entre deux circuits :",
+              "réponses": [
+                "A. Est définie par $\\Phi_{12} = M I_2$",
+                "B. Est symétrique : $M_{12} = M_{21}$",
+                "C. Vérifie $M \\leq \\sqrt{L_1 L_2}$",
+                "D. Est toujours négative"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 16,
+              "theme": "Électrostatique",
+              "question": "L'électrisation par influence :",
+              "réponses": [
+                "A. Redistribue les charges sur un conducteur",
+                "B. Crée des charges de signe opposé du côté le plus proche de la source",
+                "C. Conserve la charge totale du conducteur",
+                "D. Ne fonctionne qu'avec les isolants"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 17,
+              "theme": "Champ Magnétique",
+              "question": "Dans un matériau paramagnétique :",
+              "réponses": [
+                "A. $\\mu_r > 1$ (légèrement)",
+                "B. L'aimantation est parallèle au champ appliqué",
+                "C. $\\chi_m > 0$",
+                "D. $\\chi_m$ est très grand"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 18,
+              "theme": "Électrostatique",
+              "question": "La méthode des images permet de :",
+              "réponses": [
+                "A. Résoudre des problèmes avec conditions aux limites",
+                "B. Remplacer un plan conducteur par une charge image",
+                "C. Calculer le potentiel d'une charge près d'un plan conducteur",
+                "D. Créer des charges réelles"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 19,
+              "theme": "Champ Magnétique",
+              "question": "La force de Laplace sur un élément de courant $I d\\vec{l}$ dans un champ $\\vec{B}$ est :",
+              "réponses": [
+                "A. $d\\vec{F} = I d\\vec{l} \\times \\vec{B}$",
+                "B. Perpendiculaire à $d\\vec{l}$",
+                "C. Perpendiculaire à $\\vec{B}$",
+                "D. Parallèle au courant"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 20,
+              "theme": "Électrostatique",
+              "question": "Le phénomène de rupture diélectrique (claquage) se produit quand :",
+              "réponses": [
+                "A. Le champ électrique dépasse une valeur critique",
+                "B. Le diélectrique devient conducteur",
+                "C. La tension est trop faible",
+                "D. Dépend de la nature du diélectrique (rigidité diélectrique)"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            }
+          ]
+        }
+      }
+    },
+    "S2": {
+      "name": "Semestre 2",
+      "description": "Courant Continu et Régime Sinusoïdal Forcé",
+      "subjects": ["Courant Continu", "Régime Sinusoïdal", "Circuits RLC", "Puissance électrique"],
+      "exams": {
+        "2024": {
+          "title": "Examen S2 - Session 2024",
+          "date": "Juin 2024",
+          "questions": [
+            {
+              "id": 1,
+              "theme": "Courant Continu",
+              "question": "La loi d'Ohm locale s'écrit :",
+              "réponses": [
+                "A. $\\vec{J} = \\sigma \\vec{E}$",
+                "B. $U = RI$",
+                "C. $\\vec{J} = \\rho \\vec{E}$",
+                "D. La densité de courant est proportionnelle au champ électrique"
+              ],
+              "bonnes_réponses": ["A", "D"]
+            },
+            {
+              "id": 2,
+              "theme": "Courant Continu",
+              "question": "La résistance d'un fil conducteur de longueur $L$, de section $S$ et de résistivité $\\rho$ est :",
+              "réponses": [
+                "A. $R = \\rho \\frac{L}{S}$",
+                "B. $R = \\rho \\frac{S}{L}$",
+                "C. $R = \\frac{L}{\\rho S}$",
+                "D. Proportionnelle à la longueur"
+              ],
+              "bonnes_réponses": ["A", "D"]
+            },
+            {
+              "id": 3,
+              "theme": "Courant Continu",
+              "question": "La loi des nœuds (première loi de Kirchhoff) stipule que :",
+              "réponses": [
+                "A. La somme des courants entrants égale la somme des courants sortants",
+                "B. $\\sum I = 0$ en un nœud",
+                "C. La somme des tensions dans une maille est nulle",
+                "D. Exprime la conservation de la charge"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 4,
+              "theme": "Courant Continu",
+              "question": "La loi des mailles (deuxième loi de Kirchhoff) s'écrit :",
+              "réponses": [
+                "A. $\\sum U = 0$ dans une maille fermée",
+                "B. $\\sum E = \\sum RI$",
+                "C. Exprime la conservation de l'énergie",
+                "D. $\\sum I = 0$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 5,
+              "theme": "Courant Continu",
+              "question": "La puissance dissipée par effet Joule dans une résistance $R$ parcourue par un courant $I$ est :",
+              "réponses": [
+                "A. $P = RI^2$",
+                "B. $P = \\frac{U^2}{R}$",
+                "C. $P = UI$",
+                "D. $P = \\frac{R}{I^2}$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 6,
+              "theme": "Courant Continu",
+              "question": "Le théorème de Thévenin permet de remplacer un réseau linéaire par :",
+              "réponses": [
+                "A. Une source de tension $E_{th}$ en série avec une résistance $R_{th}$",
+                "B. Une source de courant en parallèle avec une résistance",
+                "C. $E_{th}$ est la tension à vide aux bornes du réseau",
+                "D. $R_{th}$ est la résistance vue avec les sources éteintes"
+              ],
+              "bonnes_réponses": ["A", "C", "D"]
+            },
+            {
+              "id": 7,
+              "theme": "Courant Continu",
+              "question": "Le théorème de Norton donne un générateur équivalent constitué de :",
+              "réponses": [
+                "A. Une source de courant $I_N$ en parallèle avec une résistance $R_N$",
+                "B. $I_N$ est le courant de court-circuit",
+                "C. $R_N = R_{th}$",
+                "D. Une source de tension en série avec une résistance"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 8,
+              "theme": "Courant Continu",
+              "question": "Le théorème de superposition stipule que :",
+              "réponses": [
+                "A. Dans un circuit linéaire, la réponse totale est la somme des réponses individuelles",
+                "B. On éteint les autres sources pour calculer chaque contribution",
+                "C. Une source de tension éteinte est un court-circuit",
+                "D. Une source de courant éteinte est un circuit ouvert"
+              ],
+              "bonnes_réponses": ["A", "B", "C", "D"]
+            },
+            {
+              "id": 9,
+              "theme": "Courant Continu",
+              "question": "Le transfert maximal de puissance à une charge $R_L$ connectée à un générateur de Thévenin $(E_{th}, R_{th})$ se produit quand :",
+              "réponses": [
+                "A. $R_L = R_{th}$ (adaptation d'impédance)",
+                "B. $R_L = 0$",
+                "C. La puissance maximale vaut $P_{max} = \\frac{E_{th}^2}{4R_{th}}$",
+                "D. $R_L = \\infty$"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 10,
+              "theme": "Courant Continu",
+              "question": "Deux résistances $R_1$ et $R_2$ en série ont une résistance équivalente :",
+              "réponses": [
+                "A. $R_{eq} = R_1 + R_2$",
+                "B. $\\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2}$",
+                "C. Le même courant les traverse",
+                "D. $R_{eq} = \\frac{R_1 R_2}{R_1 + R_2}$"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 11,
+              "theme": "Régime Sinusoïdal",
+              "question": "En régime sinusoïdal, l'impédance d'une inductance $L$ à la pulsation $\\omega$ est :",
+              "réponses": [
+                "A. $Z_L = jL\\omega$",
+                "B. $|Z_L| = L\\omega$",
+                "C. La tension est en avance de $\\pi/2$ sur le courant",
+                "D. $Z_L = \\frac{1}{jL\\omega}$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 12,
+              "theme": "Régime Sinusoïdal",
+              "question": "L'impédance d'un condensateur de capacité $C$ à la pulsation $\\omega$ est :",
+              "réponses": [
+                "A. $Z_C = \\frac{1}{jC\\omega}$",
+                "B. $|Z_C| = \\frac{1}{C\\omega}$",
+                "C. Le courant est en avance de $\\pi/2$ sur la tension",
+                "D. $Z_C = jC\\omega$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 13,
+              "theme": "Régime Sinusoïdal",
+              "question": "Dans un circuit RLC série, la résonance se produit quand :",
+              "réponses": [
+                "A. $L\\omega_0 = \\frac{1}{C\\omega_0}$",
+                "B. $\\omega_0 = \\frac{1}{\\sqrt{LC}}$",
+                "C. L'impédance est minimale et égale à $R$",
+                "D. Le courant est maximal"
+              ],
+              "bonnes_réponses": ["A", "B", "C", "D"],
+              "image": "/images/circuit-rlc-serie.svg"
+            },
+            {
+              "id": 14,
+              "theme": "Régime Sinusoïdal",
+              "question": "Le facteur de qualité $Q$ d'un circuit RLC série à la résonance est :",
+              "réponses": [
+                "A. $Q = \\frac{L\\omega_0}{R} = \\frac{1}{RC\\omega_0}$",
+                "B. $Q = \\frac{1}{R}\\sqrt{\\frac{L}{C}}$",
+                "C. Mesure la sélectivité du circuit",
+                "D. $Q = R\\sqrt{\\frac{C}{L}}$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 15,
+              "theme": "Régime Sinusoïdal",
+              "question": "La puissance active $P$ en régime sinusoïdal est :",
+              "réponses": [
+                "A. $P = UI\\cos(\\varphi)$",
+                "B. La puissance moyenne consommée",
+                "C. Exprimée en Watts (W)",
+                "D. Égale à la puissance apparente"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 16,
+              "theme": "Régime Sinusoïdal",
+              "question": "La puissance réactive $Q$ est :",
+              "réponses": [
+                "A. $Q = UI\\sin(\\varphi)$",
+                "B. Exprimée en Volt-Ampère Réactif (VAR)",
+                "C. Associée aux éléments inductifs et capacitifs",
+                "D. Toujours positive"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 17,
+              "theme": "Régime Sinusoïdal",
+              "question": "La puissance apparente $S$ est :",
+              "réponses": [
+                "A. $S = UI$",
+                "B. $S = \\sqrt{P^2 + Q^2}$",
+                "C. Exprimée en Volt-Ampère (VA)",
+                "D. $S = P + jQ$ en notation complexe"
+              ],
+              "bonnes_réponses": ["A", "B", "C", "D"]
+            },
+            {
+              "id": 18,
+              "theme": "Régime Sinusoïdal",
+              "question": "Le facteur de puissance $\\cos(\\varphi)$ :",
+              "réponses": [
+                "A. Est le rapport $P/S$",
+                "B. Vaut 1 pour une charge purement résistive",
+                "C. Est amélioré en ajoutant des condensateurs (compensation)",
+                "D. Est toujours supérieur à 1"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 19,
+              "theme": "Régime Sinusoïdal",
+              "question": "Un filtre passe-bas du premier ordre a une fréquence de coupure :",
+              "réponses": [
+                "A. $f_c = \\frac{1}{2\\pi RC}$ pour un circuit RC",
+                "B. Où le gain vaut $-3$ dB",
+                "C. $f_c = \\frac{R}{2\\pi L}$ pour un circuit RL",
+                "D. Où la puissance est divisée par 2"
+              ],
+              "bonnes_réponses": ["A", "B", "C", "D"]
+            },
+            {
+              "id": 20,
+              "theme": "Régime Sinusoïdal",
+              "question": "La bande passante d'un circuit RLC série est :",
+              "réponses": [
+                "A. $\\Delta f = \\frac{f_0}{Q}$",
+                "B. $\\Delta \\omega = \\frac{R}{L}$",
+                "C. Plus étroite si $Q$ est grand",
+                "D. Indépendante de la résistance"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            }
+          ]
+        },
+        "2025": {
+          "title": "Examen S2 - Session 2025",
+          "date": "Juin 2025",
+          "questions": [
+            {
+              "id": 1,
+              "theme": "Courant Continu",
+              "question": "La force électromotrice (f.é.m.) d'un générateur :",
+              "réponses": [
+                "A. Est la tension à vide du générateur",
+                "B. Représente le travail par unité de charge",
+                "C. Est toujours égale à la tension aux bornes",
+                "D. Est exprimée en Volts"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 2,
+              "theme": "Courant Continu",
+              "question": "La caractéristique d'un générateur réel de f.é.m. $E$ et de résistance interne $r$ est :",
+              "réponses": [
+                "A. $U = E - rI$",
+                "B. $U = E + rI$",
+                "C. Une droite décroissante dans le plan $(I, U)$",
+                "D. Le courant de court-circuit est $I_{cc} = E/r$"
+              ],
+              "bonnes_réponses": ["A", "C", "D"]
+            },
+            {
+              "id": 3,
+              "theme": "Courant Continu",
+              "question": "Deux résistances $R_1$ et $R_2$ en parallèle ont une résistance équivalente :",
+              "réponses": [
+                "A. $R_{eq} = \\frac{R_1 R_2}{R_1 + R_2}$",
+                "B. $\\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2}$",
+                "C. $R_{eq} = R_1 + R_2$",
+                "D. Elles ont la même tension à leurs bornes"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 4,
+              "theme": "Courant Continu",
+              "question": "Le pont diviseur de tension permet de calculer :",
+              "réponses": [
+                "A. $U_2 = U \\frac{R_2}{R_1 + R_2}$ pour deux résistances en série",
+                "B. Le courant dans chaque branche",
+                "C. La tension aux bornes d'une résistance dans une association série",
+                "D. La résistance équivalente"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 5,
+              "theme": "Courant Continu",
+              "question": "Le pont diviseur de courant donne :",
+              "réponses": [
+                "A. $I_1 = I \\frac{R_2}{R_1 + R_2}$ pour deux résistances en parallèle",
+                "B. $I_1 = I \\frac{R_1}{R_1 + R_2}$",
+                "C. Le courant dans chaque branche d'une association parallèle",
+                "D. La tension aux bornes"
+              ],
+              "bonnes_réponses": ["A", "C"]
+            },
+            {
+              "id": 6,
+              "theme": "Courant Continu",
+              "question": "Le rendement d'un générateur réel est :",
+              "réponses": [
+                "A. $\\eta = \\frac{P_{utile}}{P_{totale}} = \\frac{UI}{EI}$",
+                "B. $\\eta = 1 - \\frac{rI}{E}$",
+                "C. Toujours égal à 100%",
+                "D. Maximal quand $r = 0$"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 7,
+              "theme": "Courant Continu",
+              "question": "L'énergie dissipée dans une résistance $R$ pendant un temps $t$ est :",
+              "réponses": [
+                "A. $W = RI^2 t$",
+                "B. $W = Pt$",
+                "C. $W = \\frac{U^2}{R} t$",
+                "D. Exprimée en Joules ou en kWh"
+              ],
+              "bonnes_réponses": ["A", "B", "C", "D"]
+            },
+            {
+              "id": 8,
+              "theme": "Courant Continu",
+              "question": "La constante de temps d'un circuit RC est :",
+              "réponses": [
+                "A. $\\tau = RC$",
+                "B. Le temps pour atteindre 63% de la valeur finale",
+                "C. $\\tau = \\frac{R}{C}$",
+                "D. Après $5\\tau$, le régime permanent est pratiquement atteint"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 9,
+              "theme": "Courant Continu",
+              "question": "La constante de temps d'un circuit RL est :",
+              "réponses": [
+                "A. $\\tau = \\frac{L}{R}$",
+                "B. $\\tau = LR$",
+                "C. Le courant atteint 63% de sa valeur finale après $\\tau$",
+                "D. Exprimée en secondes"
+              ],
+              "bonnes_réponses": ["A", "C", "D"]
+            },
+            {
+              "id": 10,
+              "theme": "Courant Continu",
+              "question": "Le pont de Wheatstone permet de mesurer :",
+              "réponses": [
+                "A. Une résistance inconnue avec précision",
+                "B. $R_x = R_3 \\frac{R_1}{R_2}$ à l'équilibre",
+                "C. Le courant dans le galvanomètre est nul à l'équilibre",
+                "D. La f.é.m. d'une pile"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 11,
+              "theme": "Régime Sinusoïdal",
+              "question": "Une grandeur sinusoïdale $u(t) = U_m \\cos(\\omega t + \\varphi)$ a :",
+              "réponses": [
+                "A. Une valeur efficace $U = \\frac{U_m}{\\sqrt{2}}$",
+                "B. Une pulsation $\\omega = 2\\pi f$",
+                "C. Une période $T = \\frac{1}{f}$",
+                "D. Une valeur efficace $U = U_m$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 12,
+              "theme": "Régime Sinusoïdal",
+              "question": "La représentation de Fresnel d'une grandeur sinusoïdale utilise :",
+              "réponses": [
+                "A. Un vecteur tournant de module égal à l'amplitude",
+                "B. La projection sur l'axe des réels donne la valeur instantanée",
+                "C. L'angle avec l'axe de référence est la phase",
+                "D. Une représentation en coordonnées cartésiennes uniquement"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 13,
+              "theme": "Régime Sinusoïdal",
+              "question": "La notation complexe en régime sinusoïdal :",
+              "réponses": [
+                "A. Associe à $u(t) = U_m \\cos(\\omega t + \\varphi)$ le phaseur $\\underline{U} = U_m e^{j\\varphi}$",
+                "B. Simplifie les calculs de circuits",
+                "C. Permet d'utiliser la loi d'Ohm généralisée : $\\underline{U} = \\underline{Z} \\underline{I}$",
+                "D. Ne fonctionne qu'en régime continu"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 14,
+              "theme": "Régime Sinusoïdal",
+              "question": "L'admittance complexe $\\underline{Y}$ est :",
+              "réponses": [
+                "A. $\\underline{Y} = \\frac{1}{\\underline{Z}}$",
+                "B. $\\underline{Y} = G + jB$ avec $G$ conductance et $B$ susceptance",
+                "C. Exprimée en Siemens (S)",
+                "D. $\\underline{Y} = \\underline{Z}$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 15,
+              "theme": "Régime Sinusoïdal",
+              "question": "Dans un circuit RLC parallèle, la résonance (antirésonance) se produit quand :",
+              "réponses": [
+                "A. L'admittance est minimale",
+                "B. L'impédance est maximale",
+                "C. $\\omega_0 = \\frac{1}{\\sqrt{LC}}$",
+                "D. Le courant total est maximal"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 16,
+              "theme": "Régime Sinusoïdal",
+              "question": "Le diagramme de Bode représente :",
+              "réponses": [
+                "A. Le gain en dB en fonction de $\\log(f)$",
+                "B. La phase en fonction de $\\log(f)$",
+                "C. La réponse fréquentielle d'un système",
+                "D. Le courant en fonction du temps"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 17,
+              "theme": "Régime Sinusoïdal",
+              "question": "Un filtre passe-haut du premier ordre :",
+              "réponses": [
+                "A. Laisse passer les hautes fréquences",
+                "B. A un gain qui tend vers 0 à basse fréquence",
+                "C. A une pente de $+20$ dB/décade à basse fréquence",
+                "D. A une fréquence de coupure $f_c = \\frac{1}{2\\pi RC}$"
+              ],
+              "bonnes_réponses": ["A", "B", "C", "D"]
+            },
+            {
+              "id": 18,
+              "theme": "Régime Sinusoïdal",
+              "question": "Un filtre passe-bande :",
+              "réponses": [
+                "A. Laisse passer une plage de fréquences autour de $f_0$",
+                "B. Peut être réalisé avec un circuit RLC série",
+                "C. A une bande passante $\\Delta f = f_0/Q$",
+                "D. Bloque toutes les fréquences"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 19,
+              "theme": "Régime Sinusoïdal",
+              "question": "Le théorème de Boucherot (en régime sinusoïdal) stipule que :",
+              "réponses": [
+                "A. La puissance active totale est la somme des puissances actives",
+                "B. La puissance réactive totale est la somme des puissances réactives",
+                "C. La puissance apparente totale est la somme des puissances apparentes",
+                "D. S'applique aux circuits linéaires"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 20,
+              "theme": "Régime Sinusoïdal",
+              "question": "La compensation de puissance réactive :",
+              "réponses": [
+                "A. Améliore le facteur de puissance",
+                "B. Réduit les pertes en ligne",
+                "C. Utilise des condensateurs pour compenser les charges inductives",
+                "D. Augmente la puissance réactive"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            }
+          ]
+        },
+        "2026": {
+          "title": "Examen S2 - Session 2026",
+          "date": "Juin 2026",
+          "questions": [
+            {
+              "id": 1,
+              "theme": "Courant Continu",
+              "question": "La densité de courant $\\vec{J}$ est définie comme :",
+              "réponses": [
+                "A. Le courant par unité de surface : $J = I/S$",
+                "B. $\\vec{J} = nq\\vec{v}$ où $n$ est la densité de porteurs",
+                "C. Exprimée en $A/m^2$",
+                "D. Le courant total dans le circuit"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 2,
+              "theme": "Courant Continu",
+              "question": "La mobilité des porteurs de charge $\\mu$ est reliée à la conductivité par :",
+              "réponses": [
+                "A. $\\sigma = nq\\mu$",
+                "B. $\\mu = \\frac{v_d}{E}$ où $v_d$ est la vitesse de dérive",
+                "C. Est indépendante de la température",
+                "D. Exprimée en $m^2/(V \\cdot s)$"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 3,
+              "theme": "Courant Continu",
+              "question": "La loi de Pouillet pour un circuit fermé simple s'écrit :",
+              "réponses": [
+                "A. $I = \\frac{\\sum E}{\\sum R}$",
+                "B. $I = \\frac{E}{R + r}$ pour un générateur de f.é.m. $E$ et résistance interne $r$",
+                "C. Le courant est proportionnel à la f.é.m.",
+                "D. $I = E \\cdot R$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 4,
+              "theme": "Courant Continu",
+              "question": "Le théorème de Millman permet de calculer :",
+              "réponses": [
+                "A. Le potentiel d'un nœud connecté à plusieurs branches",
+                "B. $V_N = \\frac{\\sum E_k/R_k}{\\sum 1/R_k}$",
+                "C. La résistance équivalente",
+                "D. S'applique aux circuits avec sources de tension en série avec des résistances"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 5,
+              "theme": "Courant Continu",
+              "question": "Le coefficient de température d'une résistance :",
+              "réponses": [
+                "A. $R(T) = R_0(1 + \\alpha(T - T_0))$",
+                "B. Est positif pour les métaux",
+                "C. Est négatif pour les semi-conducteurs",
+                "D. Est toujours nul"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 6,
+              "theme": "Courant Continu",
+              "question": "Une source de courant idéale :",
+              "réponses": [
+                "A. Délivre un courant constant quelle que soit la charge",
+                "B. A une résistance interne infinie",
+                "C. A une résistance interne nulle",
+                "D. Se comporte comme un circuit ouvert quand elle est éteinte"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 7,
+              "theme": "Courant Continu",
+              "question": "Une source de tension idéale :",
+              "réponses": [
+                "A. Maintient une tension constante quelle que soit le courant",
+                "B. A une résistance interne nulle",
+                "C. A une résistance interne infinie",
+                "D. Se comporte comme un court-circuit quand elle est éteinte"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 8,
+              "theme": "Courant Continu",
+              "question": "La charge d'un condensateur à travers une résistance suit :",
+              "réponses": [
+                "A. $u_C(t) = E(1 - e^{-t/\\tau})$ avec $\\tau = RC$",
+                "B. $i(t) = \\frac{E}{R}e^{-t/\\tau}$",
+                "C. Une loi exponentielle croissante pour la tension",
+                "D. Une loi linéaire"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 9,
+              "theme": "Courant Continu",
+              "question": "La décharge d'un condensateur à travers une résistance suit :",
+              "réponses": [
+                "A. $u_C(t) = U_0 e^{-t/\\tau}$",
+                "B. $i(t) = -\\frac{U_0}{R}e^{-t/\\tau}$",
+                "C. Une décroissance exponentielle",
+                "D. $\\tau = RC$"
+              ],
+              "bonnes_réponses": ["A", "B", "C", "D"]
+            },
+            {
+              "id": 10,
+              "theme": "Courant Continu",
+              "question": "L'établissement du courant dans un circuit RL :",
+              "réponses": [
+                "A. $i(t) = \\frac{E}{R}(1 - e^{-t/\\tau})$ avec $\\tau = L/R$",
+                "B. La tension aux bornes de L : $u_L = E e^{-t/\\tau}$",
+                "C. Est instantané",
+                "D. L'inductance s'oppose aux variations de courant"
+              ],
+              "bonnes_réponses": ["A", "B", "D"]
+            },
+            {
+              "id": 11,
+              "theme": "Régime Sinusoïdal",
+              "question": "L'impédance complexe d'un circuit RLC série est :",
+              "réponses": [
+                "A. $\\underline{Z} = R + j(L\\omega - \\frac{1}{C\\omega})$",
+                "B. $|Z| = \\sqrt{R^2 + (L\\omega - \\frac{1}{C\\omega})^2}$",
+                "C. Purement résistive à la résonance",
+                "D. $\\underline{Z} = R + jL\\omega + \\frac{1}{jC\\omega}$"
+              ],
+              "bonnes_réponses": ["A", "B", "C", "D"]
+            },
+            {
+              "id": 12,
+              "theme": "Régime Sinusoïdal",
+              "question": "Le déphasage $\\varphi$ entre tension et courant dans un circuit RLC série est :",
+              "réponses": [
+                "A. $\\tan(\\varphi) = \\frac{L\\omega - \\frac{1}{C\\omega}}{R}$",
+                "B. Positif si le circuit est inductif ($L\\omega > 1/C\\omega$)",
+                "C. Négatif si le circuit est capacitif",
+                "D. Toujours égal à $\\pi/2$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 13,
+              "theme": "Régime Sinusoïdal",
+              "question": "La surtension aux bornes de L ou C à la résonance dans un circuit RLC série :",
+              "réponses": [
+                "A. Vaut $U_L = U_C = QU$ où $U$ est la tension d'entrée",
+                "B. Peut être très grande si $Q$ est élevé",
+                "C. Est dangereuse pour les composants",
+                "D. Est toujours nulle"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 14,
+              "theme": "Régime Sinusoïdal",
+              "question": "Un transformateur idéal a un rapport de transformation $m = N_2/N_1$ tel que :",
+              "réponses": [
+                "A. $U_2/U_1 = m$",
+                "B. $I_2/I_1 = 1/m$",
+                "C. La puissance est conservée : $P_1 = P_2$",
+                "D. $U_2/U_1 = 1/m$"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 15,
+              "theme": "Régime Sinusoïdal",
+              "question": "La puissance instantanée en régime sinusoïdal :",
+              "réponses": [
+                "A. $p(t) = u(t) \\cdot i(t)$",
+                "B. Oscille à la fréquence $2f$",
+                "C. A une valeur moyenne égale à la puissance active $P$",
+                "D. Est toujours positive"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 16,
+              "theme": "Régime Sinusoïdal",
+              "question": "Un filtre coupe-bande (réjecteur) :",
+              "réponses": [
+                "A. Atténue une plage de fréquences autour de $f_0$",
+                "B. Peut être réalisé avec un circuit RLC parallèle",
+                "C. Est l'inverse d'un filtre passe-bande",
+                "D. Laisse passer toutes les fréquences"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 17,
+              "theme": "Régime Sinusoïdal",
+              "question": "L'impédance ramenée au primaire d'un transformateur idéal :",
+              "réponses": [
+                "A. $Z_1 = Z_2/m^2$",
+                "B. Permet l'adaptation d'impédance",
+                "C. $Z_1 = m^2 Z_2$",
+                "D. Est indépendante de la charge"
+              ],
+              "bonnes_réponses": ["A", "B"]
+            },
+            {
+              "id": 18,
+              "theme": "Régime Sinusoïdal",
+              "question": "Le régime transitoire dans un circuit RLC série peut être :",
+              "réponses": [
+                "A. Apériodique si $R > 2\\sqrt{L/C}$",
+                "B. Critique si $R = 2\\sqrt{L/C}$",
+                "C. Oscillatoire amorti si $R < 2\\sqrt{L/C}$",
+                "D. Toujours oscillatoire"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 19,
+              "theme": "Régime Sinusoïdal",
+              "question": "La pseudo-pulsation en régime oscillatoire amorti est :",
+              "réponses": [
+                "A. $\\omega' = \\sqrt{\\omega_0^2 - \\alpha^2}$ avec $\\alpha = R/2L$",
+                "B. Inférieure à $\\omega_0$",
+                "C. Égale à $\\omega_0$ quand $R = 0$",
+                "D. $\\omega' = \\omega_0$ toujours"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            },
+            {
+              "id": 20,
+              "theme": "Régime Sinusoïdal",
+              "question": "La fonction de transfert $H(j\\omega)$ d'un filtre :",
+              "réponses": [
+                "A. Est le rapport $\\underline{U_s}/\\underline{U_e}$",
+                "B. Permet de calculer le gain : $G = |H|$",
+                "C. Permet de calculer la phase : $\\varphi = \\arg(H)$",
+                "D. Est toujours réelle"
+              ],
+              "bonnes_réponses": ["A", "B", "C"]
+            }
+          ]
+        }
+      }
+    }
+  }
+}
